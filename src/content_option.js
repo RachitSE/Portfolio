@@ -5,19 +5,19 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Rachit Srivastava",
+    title: "I’m Rachit",
     animated: {
-        first: "I love coding",
+        first: "I cook while I code 😎",
         second: "I code cool websites",
-        third: "My favourite programming language is Java",
+        third: " Interstellar for life.",
     },
-    description: "Hello, I am Rachit, a 15-year old programmer from India. Currently, I am learning more about deep learning and ethical hacking.",
+    description: Hi 👋, Rachit this side, a 17-year old programmer from India. Currently, I am learning more about Deep learning and Artificial intelligence .",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "Introduction",
-    aboutme: "Hello, I am Rachit, a 15-year old programmer from India. Currently, I am learning more about deep learning and ethical hacking. I have worked with many clients from all over the world. I want to become a Software Developer and develop new and cool things.",
+    aboutme: "Hello, I am Rachit, a 17-year old programmer from India. Currently, I am learning more about Deep learning and AI Tech. I have worked with many clients from all over the  world, One of my ambitions is to become a Software Developer and develop new and cool things.",
 };
 const worktimeline = [{
         jobtitle: "Developer of the year (Westline)",
