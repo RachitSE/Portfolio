@@ -1,7 +1,7 @@
 const logotext = "MY PORTFOLIO";
 const meta = {
     title: "Rachit's Portfolio",
-    description: "I’m Rachit, a Tech Enthusiast _ Full stack devloper, Learning Ethical Hacking",
+    description: "I’m Rachit, a Tech Enthusiast and a Full stack devloper, Learning Ethical Hacking",
 };
 
 const introdata = {
@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites",
         third: " Interstellar for life.",
     },
-    description: Hi 👋, Rachit this side, a 17-year old programmer from India. Currently, I am learning more about Deep learning and Artificial intelligence .",
+    description: "Hi 👋, Rachit this side, a 17-year old programmer from India. Currently, I am learning more about Deep learning and Artificial intelligence .",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
