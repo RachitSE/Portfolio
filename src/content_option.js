@@ -75,43 +75,43 @@ const services = [{
 const dataportfolio = [{
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDT44m1P-Zcw1TN7N5iFAFWF0GLGAyGVT2Rw&usqp=CAU",
         desctiption: "My JS Projects.",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
     {
         img: "https://cdn-icons-png.flaticon.com/512/74/74897.png",
         desctiption: "My C++ Projects.",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
     {
         img: "https://cdn-icons-png.flaticon.com/512/121/121152.png",
         desctiption: "My Java Projects.",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
     {
         img: "https://cdn-icons-png.flaticon.com/512/121/121537.png",
         desctiption: "My Html, Css Projects.",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
     {
         img: "https://www.pngitem.com/pimgs/m/72-723723_paintbrush-black-and-white-png-black-transparent-paint.png",
         desctiption: "UI/UX Designs",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
     {
         img: "https://icones.pro/wp-content/uploads/2021/03/icone-de-configuration-noire.png",
         desctiption: "My DCLM Configs.",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
 
     {
         img: "https://cdn-icons-png.flaticon.com/512/5968/5968286.png",
         desctiption: "My Python plugins.",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
     {
         img: "https://i.pinimg.com/originals/0d/8b/43/0d8b437a4c1c788f036590bc4b71ff55.png",
         desctiption: "My Discord Bots.",
-        link: "https://github.com/RachitSR-delta",
+        link: "https://rachitse.github.io/Portfolio/",
     },
 ];
 
@@ -127,7 +127,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/RachitSR-delta",
+    github: "https://rachitse.github.io/Portfolio/",
     twitter: "https://twitter.com/InDevNoob",
     youtube: "https://www.youtube.com/channel/UCcdzYZ4lPJUBySlXCyfdCSw",
     twitch: "https://www.twitch.tv/compilercharisma",
